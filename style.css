@@ -1,0 +1,233 @@
+.menue  {
+    background: url(imeges/bg.png);
+    font-weight: bold;
+    padding: 0.5rem;
+}
+.logotype{
+   font-size: 30px;
+}
+.menue .container {
+    display: flex; 
+    justify-content: space-between;
+    font-size: 20px;
+ }
+.menue .container .site-sittings ul > li{
+    margin: 0;
+    list-style: none;
+     margin: 0 1rem;
+    }
+   #homee{
+   color: #FF7373;
+   }
+    .menue .container .shopping-icons ul > li{
+        margin: 0;
+        list-style: none;
+        margin: 0 1rem;   
+        position: relative;
+    }
+    .shopping-icons ul > li span{
+       font-size: 0.5rem;
+       position: absolute;
+       left: 20px;
+    }
+    .menue .container ul {
+        display: flex;   
+    }
+    .menue ul > li :last-child {
+    margin-left: 1rem;
+    }      
+    .menue2 {
+        display: flex;
+        justify-content: space-between;
+        background: url(imeges/bg.png);
+    }
+    .menue2 .metten {
+        text-align: center;
+        padding: 10rem;
+        margin: 16px;  
+    }  
+    .menue2 .metten .zero >button {
+        margin: 16px;
+        background-color:#FF7373;
+        color: azure;
+        width: 10rem;
+        height: 3rem;
+        border: none;   
+    }
+    .new{
+        margin-top:25px;
+        display: flex;
+        padding: 5px;
+        height: 30rem;      
+    }
+    .imeg1{
+        background: url(imeges/img3.png);      
+    }
+    .imeg2{
+        background: url(imeges/img4.png);    
+    }
+    .past {
+      margin: 200px;
+      margin: right 0px;
+      margin-left: 50px;
+      padding-right:10px;   
+    }
+    .past > button {
+        padding: 1rem 1.5rem;
+        margin: 16px;
+        background-color: black;
+        color: azure;
+    }
+    .verb {
+    margin: 270px;
+    margin-left: 15px;
+    padding-right: 10px; 
+    }
+    .verb > button {
+     padding: 1rem 1.5rem;
+       margin: 16px;
+       background-color: black;
+        color: azure;   
+        outline: none;
+    }
+    button:hover{
+        background-color: rgb(95, 67, 67);
+        color: antiquewhite;
+        transition: all 2s;
+        outline: none;
+    }
+    .featured {  
+        text-align: center;
+        margin-top: 25px;
+        position: relative; 
+       font-weight: bold;
+    }
+    #heart >li{
+        list-style: none;
+       
+    }
+.framtiden{
+   display:flex;
+   justify-content: space-between;
+   text-align: center;
+}
+#star{
+    color:#FF7373;
+}
+.boxsizing{
+    padding: 19px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between
+}
+.vänster{
+    height:350px;
+    width:800px;
+    background: url(imeges/img5.png);
+     text-align: center;
+     font-weight: bold;
+     font: weight 20px;
+    }
+    .höger{
+        height:350px;
+        width:800px;
+        background: url(imeges/img6.png); 
+    }
+    .speciality{
+        text-align: center;
+        padding: 1rem;
+        font-weight: bold;
+     }
+     #link{
+     display: flex;
+     justify-content: space-between;
+     text-align: center;
+     list-style: none;
+     padding-top: 16px;
+     margin-left: 16px;
+     }
+     .box{
+         background-image: url(imeges/ggg.png);
+         height: 200px;
+         width: 200px;
+     }
+     #forused {
+       display: flex;
+       padding-left: 16rem;
+       padding: 1,5rem;
+       }
+       #hög{
+           background-image: url(imeges/00.png);
+           height: 35rem;
+           width:30rem;
+           text-align: center;
+       }
+       #textt{
+        text-align: center;
+        padding: 10rem;
+        margin: 16px; 
+        color: azure;
+       }
+       #textt > button{
+        outline: none;
+        background-color:azure;
+        margin: 10px;
+       }
+       #klass{
+        padding: 20px;
+        display: flex;
+        padding-left: 16rem; 
+        margin-left: 20rem;
+       }
+       .write{
+        margin-top: 16px;
+        text-align: center;
+        background-image: url(imeges/overlay.png);
+        height: 190px;
+        width: 800px;
+        color: rgb(250, 250, 250);
+        }
+      #butt > button{
+        background-color:azure;
+        margin: 25px;
+      } 
+      .sista{
+        font-weight: bold;
+        display: flex;
+        padding-top: 25px;
+        justify-content: center;
+        justify-content: space-between;   
+        list-style: none;   
+    }
+    .end{
+        text-align: end;
+    }
+
+ .mona{
+    display: flex;
+    padding-top: 25px;
+    justify-content: center;
+    justify-content: space-between;   
+    list-style: none; 
+    text-align: center;
+ }
+
+.text-muted{
+font-weight: bold;
+}
+
+    .kanon{
+      text-align: center;
+      justify-content: center;
+      padding: 2rem;
+      background-image: url(imeges/foot.png);
+    }
+    .kanon >ul {
+     display: flex;
+     justify-content: center;
+     list-style: none;
+     font-size: 1.4rem;  
+    }
+    .kanon ul >li{
+        margin: 10px;
+        }
